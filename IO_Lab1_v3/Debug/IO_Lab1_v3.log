@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Иван\Desktop\Учеба\8 семестр\ИО\Лабораторные работы\Лабораторная работа №1\Lab1 v3\IO_Lab1_v3\RandomFunctions.h(8,2): warning C4091: static : пропускается слева от "RandomFunctions", когда ни одна переменная не объявлена
+  IO_Lab1_v3.vcxproj -> D:\Иван\Desktop\Учеба\8 семестр\ИО\Лабораторные работы\Лабораторная работа №1\Lab1 v3\IO_Lab1_v3\Debug\IO_Lab1_v3.exe
